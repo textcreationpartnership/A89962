@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv declaration out of orient: or, from the rising up of Mount Zion, the beloved city of God the New Jerusalem. Viz. that the mountaine where the house of the Lord standeth shall yet assuredly in these present and last times, upon the ruines of the sectarian state of Babel be made higher then all mountains, and exalted above all the hills. ...</title>
+            <title>New declaration out of orient</title>
+            <author>Builder of Zion the New Jerusalem.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89962</idno>
+            <idno type="STC">Wing N615</idno>
+            <idno type="STC">Thomason E520_13</idno>
+            <idno type="STC">ESTC R206180</idno>
+            <idno type="EEBO-CITATION">99899600</idno>
+            <idno type="PROQUEST">99899600</idno>
+            <idno type="VID">154310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2410:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv declaration out of orient: or, from the rising up of Mount Zion, the beloved city of God the New Jerusalem. Viz. that the mountaine where the house of the Lord standeth shall yet assuredly in these present and last times, upon the ruines of the sectarian state of Babel be made higher then all mountains, and exalted above all the hills. ...</title>
+                  <title>New declaration out of orient</title>
+                  <author>Builder of Zion the New Jerusalem.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A builder of Zion the New Jerusalem.</note>
+                  <note>Annotations on Thomason copy: "Given me by mr Hartlibe 13 Decemb. 1647.".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154310:1" rendition="simple:additions"/>
+            <p>A Nevv Declaration OVT OF ORIENT:<note place="margin">Iſa. 42. Pſal. 50.51.87.97.</note> 
+               <hi>OR,</hi> From the riſing up of <hi>Mount Zion,</hi>
+               <note place="margin">Apoc. 21. Iſa. 52.66. Mic. 4.</note> the be<g ref="char:EOLhyphen"/>loved City of GOD, the <hi>New Jeruſalem.</hi> Viz.</p>
+            <p>
+               <hi>That the Mountaine where the Houſe of the</hi> LORD <hi>ſtandeth ſhall yet aſſuredly in theſe pre<g ref="char:EOLhyphen"/>ſent and laſt times,</hi>
+               <note place="margin">2. Pet. 2. Apoc. 16. Iſa. 2.40. Luk. 3.</note> 
+               <hi>upon the ruines of the Secta<g ref="char:EOLhyphen"/>rian State of Babel be made higher then all Mountains, and exalted above all the Hills.</hi>
+            </p>
+            <p>Concerning all the Nations of whole Europe in generall, but principally the ſhepheards and Teachers,<note place="margin">Zac. 10.11. Ezek. 13.34. Rom. 16. Pſal. 14. Jer. 23. Iſa. 9.28. Epiſt Jud. Luk. 21. Mat. 24. Pſal. 2.99. Apoc. 20. Jer. 5.10.</note> who indeed do not at all ſerve GOD, and the LORD CHRIST, but onely themſelves, the world, and their own bellies, devouring the people to feed themſelves for filthy lucres ſake, teaching things that ſavour not, and by the hypocriſie of their falſe for<g ref="char:EOLhyphen"/>giving of ſinnes, drawing the grace of GOD into laſci<g ref="char:EOLhyphen"/>viouſneſſe.</p>
+            <q>Now by reaſon of the preſent miſeries and trouble of warre, whereby the Devill is let quite looſe now with rage and fury: Chiefly directed unto the Inhabitants of England, and unto the Mighty Ones, the Governours and Officers of the ſame. <bibl>Wiſd. <hi>6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:154310:2"/>
+               <head>The Kingdome of God is not in word, but in power, <hi>1. Corinth. 4.</hi>
+               </head>
+               <p>
+                  <note place="margin">Joh. 5.</note>YE have not the Word of my Father abiding in you, ſaid Chriſt unto the Jewes; and indeed he ſhould now amongſt the Heathens or falſe Chriſtians finde much leſſe fruitfull in this kinde,<note place="margin">Rom. 1.11. Mat. 7.21, 24. Iſa. 5.55, 56. Epiſt. Jude 2 Pet. 3. John 12. Dan. 2. 1 Pet. 2. Rom. 9. Iſa. 8.28, 66.</note> wherefore alſo this world in their owne generation, viz. the ſcorners and deſpiſers ſhall be judged accor<g ref="char:EOLhyphen"/>ding to the power of the living Word of God, Heb. 4. which indeed will prove ſuch a ſtone, as ſhall breake and bruiſe thoſe that offend at it, not believing him in whom they are grounded, but rather in regard of the ſame, ſtriving by their practiſes or purpoſes againſt God, Iſa. 8.28. and will not indure the truth; by rea<g ref="char:EOLhyphen"/>ſon whereof it is juſt,<note place="margin">Mal. 2.3. Levit. 26. Mic. 6.</note> that they ſhould become a curſe, and periſh in the unacknowledgment and con<g ref="char:EOLhyphen"/>tempt of God, like unto the people of the Jewes in former times; ſince they turn away their ears from the truth,<note place="margin">Pſalm. 58. 1 Tim. 1. Tit. 1.</note> and incline them only to the fables of their teachers, which they have heaped up unto them<g ref="char:EOLhyphen"/>ſelves, 2 Tim. 4.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:154310:2" rendition="simple:additions"/>
+               <head>Behold! The Kingdome of God is inwardly within you, <hi>ſaith Chriſt,</hi> Luke <hi>17.</hi>
+               </head>
+               <p>ACcording whereunto,<note place="margin">Eſa. 49.55.66.</note> I do declare by the Word of God, as a ſervant of the Lord the ſupreme Judge, Rev. 19. that the outward Congregations in Churches and Aſſemblies,<note place="margin">1 Reg 6.8.</note> or the Temples and Church governments, ſetled for that purpoſe,<note place="margin">2 Paralyp. 7.</note> were inſtituted onely for this end, that people ſhould ſo be taught and built up in the ſame, 1 Pet. 2. to be eſpecial<g ref="char:EOLhyphen"/>ly according to the New Teſtament,<note place="margin">Rom. 9.</note> united or rooted together in the Spirit by Faith,<note place="margin">Col. 2.3.</note> as members of the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, through the bond of peace,<note place="margin">Epheſ. 2.4.</note> and of the love of God, Joh. 13.15.<note place="margin">Ioh. 13. 1 Ioh. 3. Gal. 5. Eph. 1.5.</note> in ſuch ſort as that every par<g ref="char:EOLhyphen"/>ticular member ſtill of the Congregation whereof Je<g ref="char:EOLhyphen"/>ſus Chriſt is the Head, Col. 1. ſhould feel or partici<g ref="char:EOLhyphen"/>pate of the ſuffering of his neighbour or fellow-member and take care for the ſame;<note place="margin">Rom. 12.13.</note> 
+                  <note place="margin">1. Cor. 12.</note> and that the true believers,<note place="margin">Col. 1. Eph 3.</note> being once delivered from the power of darkneſſe, tranſlated into the heavenly being, and dearly redeemed through the bloud of the Sonne of God, 1 Cor. 6.7. might walk circumſpectly,<note place="margin">1. Pet 1.</note> 
+                  <note place="margin">Iſa. 28. Ier. 23.</note> Eph. 4. and know before all thinges how to frame their do<g ref="char:EOLhyphen"/>ings according to the counſell or will of God, Mat. 7.</p>
+               <p>But when the people of the Jewes did not abide after this manner in their Teſtament,<note place="margin">Heb. 8.</note> nor walked in the commandements,<note place="margin">Deut. 4.5.6 7.8.9.10 11 27.28.30.32. Iſa. 1.3.5.9.24. Mat. 12.15.21. Mat. 1.3.7.</note> rites and rights of the law of Moſes; nor held it worthy, to bring the fruits of the Kingdome of God; Chriſt did little regard their Sabbaths, but rather profaned them, Luk. 6. Joh. 2.8, 9. ſeeing that thereby they ſought but to palliate their
+<pb facs="tcp:154310:3"/> inward abominations,<note place="margin">Ier. 6.7.8.9.11.14.16.23. Iſa. 48.57. Hoſ. 4.7.8.9.11. Joh. 1.7.8.10.</note> Ezek. 5, 6, 7, 8, 9, 11, 12, 13, 22. Ch. falſe and malicious courſes, and to lie yet hid in the ſame before the eyes of God, Iſa. 29. beſides, that by reaſon of this their blindneſſe and hard-heartedneſſe they did not at all take heed of or conſider the time of their viſitation,<note place="margin">Luk. 16.22.</note> 1 Cor. 2. Luk. 19.22. For God, whom the heaven of all heavens is not able to com<g ref="char:EOLhyphen"/>prehend,<note place="margin">2 Paralyp. 7. Iſa. 66.</note> 1 King. 8. doth not at all dwell in outward Temples, ſuch as are only made by mens hands of ſtone,<note place="margin">1 Cor. 3.6. 2. Cor. 6. Rom. 3.5.8. Eph. 1.2.</note> wood and earth, Acts 7.17. but in the members of his body, that are made partakers of the Spirit of grace, or adoption, Gal. 4.5, 6. through the redempti<g ref="char:EOLhyphen"/>on of Chriſt,<note place="margin">2 Pet 2. Ier, 5. 1 Pet 4.</note> and live in this world, not unto them<g ref="char:EOLhyphen"/>ſelves, Rom. 14. 2 Cor. 5. or according to their own luſts and crafty devices, Epiſt. Jude. Rom. 1. Now as for the people of the ſecond or New Teſtament,<note place="margin">2 Tim. 3. Hoſ. 10.</note> that by diſſolving the bond of the love of God, are rent a<g ref="char:EOLhyphen"/>ſunder among themſelves, walking not at all in Chriſt the light of faith, Joh. 1.9.12. but like unto the Jewes of old,<note place="margin">Zephan. 1. 2. Pet. 2. Eph. 4. Hoſ. 7.8.12. Ier. 7. Mar. 13. 1 Joh. 1.5. Rom. 1.16. Heb. 3.4.10.12. 2. Cor. 4. Col. 3.</note> according to their Baal-courſes, Ier. 2.11. in er<g ref="char:EOLhyphen"/>rour or darkneſſe of conſcience, and are in ſuch ſort in<g ref="char:EOLhyphen"/>ticed, 2 Pet. 2. taught and ſeduced, Mat. 24. that there is no communion with God at all more to be found a<g ref="char:EOLhyphen"/>mong them, according to the Goſpel of Chriſt; and they, beſides their unbelief or diſtruſt in God, wherin they ſtick, ſo poſſeſſed, defiled or polluted with all manner of works of darkneſſe; and ſo blinded there<g ref="char:EOLhyphen"/>withall, that they take no heed at all, according to the morning-ſtar of the grace of God unto the day of the Lord,<note place="margin">2 Pet. 1. 1 Theſſ. 5. Rom. 11. Pſal. 14.87.97.</note> the decree and judgement of God, Rev. 17.18 in regard of the help out of Zion, Iſa. 49.52.59.62. or the
+<pb n="3" facs="tcp:154310:3" rendition="simple:additions"/> deliverance of Iſrael, Pſal. 31.73, 102, 130. Theſe, I ſay, ſhall yet leſſe be able to ſubſiſt with the Dayes,<note place="margin">Gal. 4. Iſa. 29. Mar. 13. Ier. 8.14. Iſa. 9.48.</note> and Moons, and Faſts, and anniverſaries of their outward Church-pomp or falſe worſhip, whereby indeed they ſerve not God, but onely ſooth and flatter themſelves;<note place="margin">Hoſ. 10.12.</note> then the Jewes did of old, for all they were the true people of God, and the naturall branches,<note place="margin">Rom. 11.</note> and had the promiſe, that God would dwell there for ever,<note place="margin">1 Reg. 9. Ezek. 43.</note> where he had ſet up the memoriall of his name, Exod. 20.</p>
+               <p>But the ſhepheards,<note place="margin">Ier. 2.23. 2 Tim. 4.</note> or the learned of this preſent Babel, Rev. 16. whom the people have heaped up eve<g ref="char:EOLhyphen"/>ry one to himſelfe in his Religion, Sect or Party,<note place="margin">Zach. 10.11.</note> 2 Pet. 2. and were according to their own pleaſure ſo taught,<note place="margin">Epiſt. Jud. Ier. 5.6.</note> ſeduced, Mat. 7.24. and ſcattered from God by them, Jer. 10.12.<note place="margin">Ezek. 34.</note> that none doth either feel or care any more for the ſuffering of his neighbour or fellow-member,<note place="margin">Rom 12.13. Gal. 1.5. Col. 2.3.</note> in hearty compaſsion of the love of God, according to the Goſpell of Chriſt, 1 Cor. 12. who alſo beſides this ſeducing,<note place="margin">Pſal. 10.68, 94. Habac. 3. Iam. 3.4.</note> do moreover excite and ſtir men up un<g ref="char:EOLhyphen"/>to theſe ſelf-revengefull, Heb. 10. Cainicall, 1 Iohn 3. cruell, Eph. 4. murthering and theeving wars, Rev. 16. which were begun in the world for the upholding of their outward Temple-ſervice or falſe worſhip,<note place="margin">Ier. 7.8.</note> and therby have drawn upon themſelves the chiefeſt guilt and cauſe of all this ruine &amp; deſtruction of mankind,<note place="margin">2 Theſſ. 2.</note> namely, that by reaſon therof one man is now become the others murder &amp; ſpoil, nay death &amp; devil together,<note place="margin">Zeph. 3.</note> according to the power and working of Satan; theſe,<note place="margin">Apocalyp. 20.</note> I ſay, ſhalbe brought to their end with terror,<note place="margin">2. Pet. 2. Epiſt. Iud.</note> and for all this, be the foremoſt that ſhalbe thruſt into hell, or in<g ref="char:EOLhyphen"/>to the blackneſſe of darkneſſe for ever.<note place="margin">Ezek. 22.</note> For the cauſes
+<pb n="4" facs="tcp:154310:4"/> of that body and ſoul-murthering, which hath broke in now for ſuch a while hitherto in the murdering den of this falſe Chriſtendome was openly practiſed,<note place="margin">Mat. 21.24. Mat. 20.11.13. Act. 20. Joh. 10. Hoſ. 4. Amos. 5.</note> by reaſon of ſuch cruell ravening Wolves and hire<g ref="char:EOLhyphen"/>lings, and abſolved or pardoned by them, Epiſt. Jude, they ſhall not only be made known and manifeſt, but be revenged and judged likewiſe now before the end of the world,<note place="margin">Mich. 5. Joel. 2. Mal. 4.</note> viz. before the great and terrible day of the Lord, upon every one, according as they ſhall have ſhare in the guilt and cauſe thereof.<note place="margin">Ezek. 21.34.</note> All ſuch now therefore as being yet incorporated or inthralled in this bloud-drunk Babell, are deſirous to eſchew the fierce wrath of God,<note place="margin">Apoc. 18. Ier. 23.30.</note> or the plagues which ſhall light upon it, by reaſon of the ſame; they muſt even time<g ref="char:EOLhyphen"/>ly go out of it,<note place="margin">Iſa. 13.34.47.</note> and look well unto themſelves, that they be not partakers of the works that are practiſed therein,<note place="margin">Apoc. 6.16. Deut. 32 Iſa. 26.</note> or guilty and cauſers of the bloud of the Saints and the ſlain that hath been ſhed hitherto, and of the plundering,<note place="margin">Nahum. 3. Ier. 7. Pſal. 12.80.</note> murdering and theeving which is committed therein, to the ruine of the countreys and the deſtruction of the poore; which I do now declare, for to hate and forſake the evill, but to love the good, and to do according to it, before God doe cauſe the Sun to goe downe at high noone,<note place="margin">Amos, 5.8.</note> and the land to be darkened in the brighteſt of the day,<note place="margin">Zach. 14. 2 Cor. 4. 1 Theſſ. 5.</note> where indeed the light never yet did ſhine before in the hearts or conſciences of men, Eph. 4.5. For ſtrong is the Lord God,<note place="margin">Apoc. 18.19. Iſa. 63.</note> who by reaſon of ſuch perverſe purpoſes of the children of men, will judge and exerciſe vengeance, Mich. 5.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:154310:4" rendition="simple:additions"/>
+               <head>
+                  <q>
+                     <bibl>
+                        <hi>Iſa. 41.42.</hi>
+                     </bibl> A Warriour of the Lord,<note place="margin">Iſa. 1.55. Rom. 1.</note>
+                  </q>
+               </head>
+               <p>Serving God in the behalf of the everlaſting de<g ref="char:EOLhyphen"/>liverance of Iſrael, according to his Councell, Jer. 23. Right, Mic. 37 Judgment and Righteouſneſſe,<note place="margin">Dan. 7.10.</note> Pſal. 89, 97, 119.<note place="margin">Mat. 24. Mat. 13. Iſa. 9.30.</note> all which the Heathens or falſe Chriſtians do endeavour to overthrow, and bring to nothing, to the utter ruine of the poor,<note place="margin">Rom. 1. Hoſ. 10. Ezek. 21.22 Ier. 7.17.23</note> onely to maintain their own vain, worldly and divided ſectarian Religions courſes. Wherefore alſo God hath already kindled the fire upon them from heaven,<note place="margin">Eze. 13.</note> that hitherto they were able to effect nothing elſe, but that over the hypocri<g ref="char:EOLhyphen"/>ſie and lies of the deviſions of their ſhepheards,<note place="margin">Pſa. 12.</note> they are brought to ruine and deſtruction, like as in former times it happened with the Jewes in the fearfull de<g ref="char:EOLhyphen"/>ſtruction of Jeruſalem.<note place="margin">Apoc. 9 16.</note>
+               </p>
+               <p>This ſame man, by whom theſe letters are deliver<g ref="char:EOLhyphen"/>ed according to the power of the living God and his word,<note place="margin">Mica. 3.7. Heb. 4.10. Iſa 42.43.48. Ier. 4.8.11.14.15.16.</note> hath likewiſe foretold all unto them in Germa<g ref="char:EOLhyphen"/>ny, viz. that they ſhould not be able thus to main<g ref="char:EOLhyphen"/>tain their falſe worſhip of God, but periſh about the ſame, even as in former times it hath happened to the houſe of Siloh and the Jews very frequently,<note place="margin">1. Sam. 4.</note> when as they went about to defend or maintain themſelves a<g ref="char:EOLhyphen"/>gainſt their enemies, without the ſpirit of the Lord, or,<note place="margin">Iſa. 1.8.9.30.31.57.65. Ier. 7.17.21 22.27.28.34.37.</note> onely according to their owne counſells, and were deſtroyed upon it, Hoſ. 7.8.10. Chap. For which cauſe therfore, ſuch as are yet remaining,<note place="margin">Ezek. 21. 2. Cor. 4. 1. Cor. 15. Amos. 1. Ier. 7 11.15.17.19.</note> ought right<g ref="char:EOLhyphen"/>ly to open the inward eyes of conſcience, and whereas now eſpecially the fire is likewiſe kindled here in England upon the ſame ground; it behoveth the in<g ref="char:EOLhyphen"/>habitants thereof to look very well unto themſelves
+<pb n="6" facs="tcp:154310:5"/> in this regard,<note place="margin">Rom. 1.9.11. Mat. 13.24 Jer. 6. Iſa. 9.50.59.</note> that they do not harden their hearts a<g ref="char:EOLhyphen"/>gainſt God, with unrighteouſneſſe, crafty, falſe and wicked courſes, and be made a curſe thereby, or be conſumed in the wrath of God one among another, in the midſt of their boaſting and high-minded glo<g ref="char:EOLhyphen"/>rying of their outward Temple-religion,<note place="margin">Mat. 13. Jer. 7.48. Iſa. 48. 1. Cor. 2. 1. Theſſ. 2. Mat. 24. Epiſt. Jud. Rom. 1.</note> for the which the Jewes likewiſe heretofore in their unac<g ref="char:EOLhyphen"/>knowledgment have put their King to death, and cru<g ref="char:EOLhyphen"/>cified him, which ſhall alſo be judged yet in the Hea<g ref="char:EOLhyphen"/>then or falſe Chriſtians, that continue in the ſame blindneſſe and hardneſſe of heart.</p>
+               <p>
+                  <note place="margin">Jer. 23. Ezek. 22. Apoc. 16. 2. Theſſ. 2. Zeph. 3. 2. Pet. 2. Zac. 10.11.13. Rev. 12.16.19.20. Iſa. 63. 2. Theſſ. 1. 2. Pet. 3. 1. Theſſ.</note>But as for their ſhepheards, falſe teachers and Pro<g ref="char:EOLhyphen"/>phets, that doe ſtir up the people to theſe murdering courſes, and thereby are become the principall guilt and cauſe of the ruine and deſtruction of mankinde, they ſhalbe thruſt the foremoſt into hell, for the deli<g ref="char:EOLhyphen"/>verance of the remnant. For there is yet another com<g ref="char:EOLhyphen"/>bate at hand with the Dragon, and ſtoole of the beaſt and the falſe Prophet; by reaſon whereof alſo the day of vengeance and judgment, that ſhall be made mani<g ref="char:EOLhyphen"/>feſt like fire, hath been already denounced and decla<g ref="char:EOLhyphen"/>red, according to the ſpirit of the former Prophets, through the Word of God,<note place="margin">1. Cor. 3.</note> unto all the Kingdomes and Nations of whole Europe, Amos. 3.5.</p>
+            </div>
+            <closer>
+               <note place="margin">Iſa. 49.52.59.60.62.65.66.</note>
+               <signed>A Builder of Zion the New Jeruſalem. <hi>Rom. 11. Zach. 12. Apoc. 21.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
